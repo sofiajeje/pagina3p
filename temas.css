@@ -1,0 +1,50 @@
+.contenedor{
+
+  width: 100%;
+  height: 1200px;
+  background-color: rgb(248, 139, 215);
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+}
+
+.encabezado{
+  width: 100%;
+  height: 200px;
+  background-color: rgb(195, 153, 235);
+
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.sociales{
+
+  width: 100%;
+  height: 255px;
+  background-color: rgb(153, 202, 235);
+
+}
+
+.ingles{
+
+  width: 100%;
+  height: 255px;
+  background-color: rgb(227, 235, 153);
+
+}
+
+.tecnologia{
+
+  width: 100%;
+  height: 255px;
+  background-color: rgb(179, 235, 153);
+
+}
+
+  
+
+
+
+

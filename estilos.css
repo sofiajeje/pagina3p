@@ -1,0 +1,93 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 30px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(20, 20, 20);
+    margin: 10%;
+    font-family: serif;
+}
+
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url(pagina\ snoopy.png);
+    
+
+}
+
+.mintraw {
+
+    background-color: rgb(173, 224, 153);
+}
+
+.mintraw2 {
+
+    width: 400px;
+
+}
+
+
+.mintraw3 {
+
+    width: 400px;
+
+}
+
+.strawberry  table, th, td {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 20%;
+}
+
+.atrawberry th, td{
+    padding: 50px;
+
+}
+
+.mono{
+
+    background-color: rgb(126, 156, 212);
+    width: 25%;
+    margin-left: 30%;
+
+}
+
+.tuto {
+
+    color: rgb(103, 121, 153);
+
+}
+
+.imagen{
+
+    margin-left: 20%;
+
+}
+
+.hoo{
+    background-color: rgb(206, 168, 111);
+}
+
+
+.imgexcel{
+
+    height: 400px;
+    width: 500px;
+    background-image: url("funcionesexcel.jpg");
+}
+
+.ariana{
+    height: 400px;
+    width: 500px;
+    background-image: url("graficar-funciones-matematicas-en-excel-02.png");
+}
+
+.imagen2{
+    margin: 500px;
+}
